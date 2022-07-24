@@ -1,8 +1,4 @@
 # -*- coding:utf-8 -*-
-# Author: lishiyun19 
-# Mail: lishiyun19@163.com
-# Created Time: Tue Sep 19 14:20:55 2017
-
 import Reader as reader
 import numpy as np
 from sklearn.ensemble import IsolationForest
