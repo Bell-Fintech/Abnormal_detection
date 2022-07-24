@@ -28,8 +28,8 @@ def detect():
     thpSum = 0
     cpuSum = 0
 
-    print thpList
-    print cpuList
+    print(thpList)
+    print(cpuList)
 
     while i < length:
         thpList.append(thpDict[i][thps_key])
